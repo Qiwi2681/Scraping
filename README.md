@@ -1,8 +1,8 @@
 # Scraping
 
-1. Google - My first introduction to selenium
-2. Reddit - Exploring multi-threading and server (raspberry pi) optimisation
-3. Steam - Store persistent steam accounts across threads
+1. Google - Introduction to selenium.
+2. Reddit - Mlti-threading and raspberry pi optimisation.
+3. Steam - Persistent steam accounts across threads.
 
 Note: Steam turned into [SteamBot](https://github.com/qiwi1272/SteamBot), as such it contains unused files.
 
