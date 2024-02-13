@@ -1,6 +1,6 @@
 # Scraping
 
-1. Google - My first introduction into selenium
+1. Google - My first introduction to selenium
 2. Reddit - Exploring multi-threading and server (raspberry pi) optimisation
 3. Steam - Store persistent steam accounts across threads
 
