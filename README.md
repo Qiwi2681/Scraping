@@ -1,10 +1,10 @@
 # Scraping
 
-Google - My first introduction into selenium
-Reddit - Exploring multi-threading and server (raspberry pi) optimisation
-Steam - Store persistent steam accounts across threads
+1. Google - My first introduction into selenium
+2. Reddit - Exploring multi-threading and server (raspberry pi) optimisation
+3. Steam - Store persistent steam accounts across threads
 
-Steam turned into [SteamBot](https://github.com/qiwi1272/SteamBot), as such it contains unused files.
+Note: Steam turned into [SteamBot](https://github.com/qiwi1272/SteamBot), as such it contains unused files.
 
 <br />
 Stored ~80 GB uncompressed over a few days on 8 threads.<br />
